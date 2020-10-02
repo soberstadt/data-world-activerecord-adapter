@@ -2,7 +2,7 @@ require_relative 'lib/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "data-world-activerecord-adapter"
-  spec.version       = DataWorld::Adapter::VERSION
+  spec.version       = DataWorldAdapter::VERSION
   spec.authors       = ["Spencer Oberstadt"]
   spec.email         = ["soberstadt@gmail.com"]
 
